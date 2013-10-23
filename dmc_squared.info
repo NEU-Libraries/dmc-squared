@@ -14,13 +14,16 @@ regions[sidebar_second] = 'Secondary'
 regions[footer]         = 'Footer'
 
 ; Stylesheets
-stylesheets[all][] = css/style.css
+stylesheets[all][] = 'dist/css/style.css'
+;stylesheets[all][] = dist/css/style.min.css
 
 ;**********************************
 ; METHOD 1: Bootstrap Source Files
 ;**********************************
 ;
 ; ; Scripts
+
+scripts[] = 'dist/js/dmc-squared.js';
 
 ;scripts[] = 'bootstrap/js/affix.js'
 ;scripts[] = 'bootstrap/js/alert.js'
