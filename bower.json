@@ -1,0 +1,20 @@
+{
+  "name": "dmc_2",
+  "version": "0.0.0",
+  "homepage": "https://github.com/NEU-Libraries/dmc-squared",
+  "authors": [
+    "Steven Bassett <steven.j.bassett@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/_bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "3.0.0"
+  }
+}
